@@ -1,0 +1,8 @@
+﻿  Copy OpenAL DLL
+  Building Custom Rule C:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/CMakeLists.txt
+  main.cpp
+  map_creator.cpp
+  Pacman.cpp
+  Ghosts.cpp
+  Generating Code...
+  Pacman_plusplus.vcxproj -> C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\build\bin\Debug\Pacman_plusplus.exe

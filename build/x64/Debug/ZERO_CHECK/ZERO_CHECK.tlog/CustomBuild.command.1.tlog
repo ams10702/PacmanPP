@@ -1,0 +1,10 @@
+^C:\USERS\JACOB\ONEDRIVE\DESKTOP\NEW FOLDER\CMAKE-SFML-PROJECT\BUILD\CMAKEFILES\1D7B11577A09EEBF2689B3EB29A7D52A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project" "-BC:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/build/Pacman_plusplus.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

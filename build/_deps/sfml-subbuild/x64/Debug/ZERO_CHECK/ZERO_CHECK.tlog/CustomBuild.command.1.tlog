@@ -1,0 +1,10 @@
+^C:\USERS\JACOB\ONEDRIVE\DESKTOP\NEW FOLDER\CMAKE-SFML-PROJECT\BUILD\_DEPS\SFML-SUBBUILD\CMAKEFILES\FB1D0925BF2F8821AE1372A0D8C1F71F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/build/_deps/sfml-subbuild" "-BC:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/build/_deps/sfml-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/jacob/OneDrive/Desktop/New folder/cmake-sfml-project/build/_deps/sfml-subbuild/sfml-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

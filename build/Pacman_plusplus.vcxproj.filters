@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\src\map_creator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\src\Pacman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\src\Ghosts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\header\constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\header\map_creator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\header\Pacman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\header\Ghosts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jacob\OneDrive\Desktop\New folder\cmake-sfml-project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{28C6287D-C3A1-3CC9-B18F-01A4C8CDB61B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{943A8731-819D-3D61-91B6-612263576317}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
